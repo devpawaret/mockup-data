@@ -14,7 +14,7 @@
     "status": 0,
     "statusDesc": "Draft",
     "lock": true,
-    "plannedflag": true,
+    "plannedFlag": true,
     "updatedAt": "2026-01-06"
   },
   {
@@ -32,7 +32,7 @@
     "status": 1,
     "statusDesc": "Planned",
     "lock": false,
-    "plannedflag": false,
+    "plannedFlag": false,
     "updatedAt": "2026-01-10"
   }
 ]
