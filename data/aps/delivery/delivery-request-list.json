@@ -9,11 +9,12 @@
     "totalQuantity": 500.0,
     "unit": "PCS",
     "lastDate": "2026-01-15",
-    "priority": "Normal",
+    "priority": 0,
+    "priorityDesc": "Normal",
     "status": 0,
     "statusDesc": "Draft",
-    "lock": "-",
-    "flag": "Yes",
+    "lock": true,
+    "plannedflag": true,
     "updateAt": "2026-01-06"
   },
   {
@@ -26,11 +27,12 @@
     "totalQuantity": 300.0,
     "unit": "PCS",
     "lastDate": "2026-01-20",
-    "priority": "High",
+    "priority": 1,
+    "priorityDesc": "High",
     "status": 1,
     "statusDesc": "Planned",
-    "lock": "-",
-    "flag": "No",
+    "lock": false,
+    "plannedflag": false,
     "updateAt": "2026-01-10"
   }
 ]
